@@ -6,6 +6,7 @@ public class Sample {
 		System.out.println("intial");
 
 		System.out.println("second");
+		System.out.println("third");
 	}
 
 }
